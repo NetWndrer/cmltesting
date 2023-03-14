@@ -4,7 +4,7 @@
     "Format": "vmdk",
     "UserBucket": {
         "S3Bucket": "mycmlbucket01",
-        "Resource": "s3://mycmlbucket01/cml01-disk1.vmdk"
+        "S3Key": "s3://mycmlbucket01/cml01-disk1.vmdk"
     }
   }
 ]
