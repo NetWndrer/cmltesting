@@ -1,5 +1,5 @@
 {
-   "Version":"2012-10-17",
+   "Version":"2022-10-19",
    "Statement":[
       {
          "Effect": "Allow",
@@ -23,8 +23,8 @@
             "s3:GetBucketAcl"
          ],
          "Resource": [
-            "arn:aws:s3:::event-tech-vm-export",
-            "arn:aws:s3:::event-tech-vm-export/*"
+            "arn:aws:s3:::mycmlbucket01",
+            "arn:aws:s3:::mycmlbucket01/*"
          ]
       },
       {
